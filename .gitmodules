@@ -6,4 +6,4 @@
 	url = https://github.com/KaiyangZhou/deep-person-reid.git
 [submodule "yolo5/yolov5"]
 	path = yolo5/yolov5
-	url = https://github.com/ultralytics/yolov5.git
+	url = git@github.com:Vol-v/yolov5.git
